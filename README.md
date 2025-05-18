@@ -6,7 +6,7 @@
 
 In today's **fast-paced software development** environment, building a secure, scalable, and efficient **CI/CD pipeline** is crucial. This project demonstrates a **DevSecOps approach** to deploying an **Uber Clone**, ensuring speed, security, and reliability at every stage of development.  
 
-### 🔗 **GitHub Repository**: [uber-clone](https://github.com/NotHarshhaa/uber-clone.git)  
+### 🔗 **GitHub Repository**: [uber-clone](https://github.com/Haswanthkondamadugula)  
 
 🛠 **Built with:**  
 
@@ -31,7 +31,7 @@ Ensure you have the following installed before proceeding:
 Clone the repository:  
 
 ```bash
-git clone https://github.com/NotHarshhaa/uber-clone.git
+git clone https://github.com/Haswanth/uber-clone.git
 cd uber-clone
 ```
 
@@ -109,17 +109,6 @@ Contributions are welcome! If you'd like to improve this project, feel free to s
 
 ## 🛠️ **Author & Community**  
 
-This project is crafted by **[Harshhaa](https://github.com/NotHarshhaa)** 💡.  
+This project is crafted by Haswanth  
 I’d love to hear your feedback! Feel free to share your thoughts.  
 
----
-
-### 📧 **Connect with me:**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshhaa-vardhan-reddy) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NotHarshhaa)  [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/prodevopsguy) [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/notharshhaa) [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@prodevopsguy)  
-
----
-
-### 📢 **Stay Connected**  
-
-![Follow Me](https://imgur.com/2j7GSPs.png)
